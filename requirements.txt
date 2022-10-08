@@ -1,2 +1,5 @@
-jupyter-lab
+jupyterlab
 pandas
+requests
+wheel
+python-dotenv
